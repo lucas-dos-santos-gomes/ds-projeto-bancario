@@ -26,10 +26,10 @@ class Account {
   }
 
   public bool Withdraw(double value) {
-    if(value > balance) {
+    if(value > GetBalance()) {
       return false;
     } else {
-      balance -= value;
+      SetBalance(balance -= value);
       return true;
     }
   }
