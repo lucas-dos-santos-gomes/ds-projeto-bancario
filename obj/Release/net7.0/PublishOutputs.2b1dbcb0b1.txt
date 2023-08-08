@@ -1,0 +1,5 @@
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Release\net7.0\publish\BankProject.exe
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Release\net7.0\publish\BankProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Release\net7.0\publish\BankProject.deps.json
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Release\net7.0\publish\BankProject.runtimeconfig.json
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Release\net7.0\publish\BankProject.pdb

@@ -1,0 +1,15 @@
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Debug\net7.0\BankProject.exe
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Debug\net7.0\BankProject.deps.json
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Debug\net7.0\BankProject.runtimeconfig.json
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Debug\net7.0\BankProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\bin\Debug\net7.0\BankProject.pdb
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.csproj.AssemblyReference.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.AssemblyInfoInputs.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.AssemblyInfo.cs
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\refint\BankProject.dll
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.pdb
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\BankProject.genruntimeconfig.cache
+C:\Users\usuario1\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\BankProject\visual-studio-code\BankProject\obj\Debug\net7.0\ref\BankProject.dll
